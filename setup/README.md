@@ -4,4 +4,4 @@
 
 ## run npm install && npm start to run the code locally
 
-## or visit the live site at:
+## or visit the live site at: https://tours-react-basic-project.netlify.app
